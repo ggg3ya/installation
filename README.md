@@ -14,3 +14,7 @@ source <(wget -O - https://raw.githubusercontent.com/ggg3ya/installation/main/no
 ```
 source <(wget -O - https://raw.githubusercontent.com/ggg3ya/installation/main/python.sh
 ```    
+- Rust installation command
+```
+source <(wget -O - https://raw.githubusercontent.com/ggg3ya/installation/main/rust.sh)
+```
