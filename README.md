@@ -4,15 +4,15 @@ source <(wget -O - https://raw.githubusercontent.com/ggg3ya/installation/main/do
 ```
 ###  Foundry installation command
 ```
-source <(wget -O - https://raw.githubusercontent.com/ggg3ya/installation/main/foundry.sh
+source <(wget -O - https://raw.githubusercontent.com/ggg3ya/installation/main/foundry.sh)
 ```
 ### Node js and npm installation command
 ```
-source <(wget -O - https://raw.githubusercontent.com/ggg3ya/installation/main/node.sh
+source <(wget -O - https://raw.githubusercontent.com/ggg3ya/installation/main/node.sh)
 ```
 ### Python installation command
 ```
-source <(wget -O - https://raw.githubusercontent.com/ggg3ya/installation/main/python.sh
+source <(wget -O - https://raw.githubusercontent.com/ggg3ya/installation/main/python.sh)
 ```    
 ### Rust installation command
 ```
